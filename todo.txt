@@ -1,3 +1,4 @@
 1. Create simple go app
 2. create wiki
 3. share
+4. add comments
